@@ -40,6 +40,8 @@ You check and balance and before and after datasets
 
 [Visit final clean dataset](clean_customer_orders_dataset.csv)
 
+[Visit final SQL script](final.script.customer_orders_project_revised&scanned.sql)
+
 Snapshot of the dataset before cleaning (`orders_raw`) and after (`order_t3_final`).
 
 ### Overview
